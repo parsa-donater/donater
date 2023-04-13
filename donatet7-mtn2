@@ -1,0 +1,7 @@
+vless://ffb05c06-c88d-4d59-85ca-abeed4b036fd@srv2.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test3.khasteh-shodam.cloud#Donater-Donater7-irancell2
+
+vless://ffb05c06-c88d-4d59-85ca-abeed4b036fd@irancell.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test3.khasteh-shodam.cloud#Donater-Donater7-irancell2
+
+vless://ffb05c06-c88d-4d59-85ca-abeed4b036fd@irancell-i.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test3.khasteh-shodam.cloud#Donater-Donater7-irancell2
+
+vless://ffb05c06-c88d-4d59-85ca-abeed4b036fd@irancell2.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test3.khasteh-shodam.cloud#Donater-Donater7-irancell2
