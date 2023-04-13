@@ -5,3 +5,5 @@ vless://353ff9a7-10ce-4e1b-aca5-e259d6e22279@srv1-test1.khasteh-shodam.cloud:208
 vless://353ff9a7-10ce-4e1b-aca5-e259d6e22279@srv17.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test5.khasteh-shodam.cloud#Donater-Donater7-mokhaberat5
 
 vless://353ff9a7-10ce-4e1b-aca5-e259d6e22279@mci-i.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test5.khasteh-shodam.cloud#Donater-Donater7-mokhaberat5
+
+vless://353ff9a7-10ce-4e1b-aca5-e259d6e22279@srv17-2.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test5.khasteh-shodam.cloud#Donater-Donater7-mokhaberat5
