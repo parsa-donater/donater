@@ -1,9 +1,6 @@
-vless://acfdc599-25dd-4643-bc69-f98154e36b0d@srv3.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test5.khasteh-shodam.cloud#Donater-Donater7-mokhaberat2
-
-vless://acfdc599-25dd-4643-bc69-f98154e36b0d@srv1-test1.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test5.khasteh-shodam.cloud#Donater-Donater7-mokhaberat2
-
-vless://acfdc599-25dd-4643-bc69-f98154e36b0d@mci-i.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test5.khasteh-shodam.cloud#Donater-Donater7-mokhaberat2
-
-vless://acfdc599-25dd-4643-bc69-f98154e36b0d@srv17.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test5.khasteh-shodam.cloud#Donater-Donater7-mokhaberat2
-
-vless://acfdc599-25dd-4643-bc69-f98154e36b0d@srv17-2.khasteh-shodam.cloud:2083?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1&sni=test5.khasteh-shodam.cloud#Donater-Donater7-mokhaberat2
+vless://c820c605-bd39-46a1-9f9c-b97b7bded7dc@mci-i.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater7-tci2%7C100GB
+vless://c820c605-bd39-46a1-9f9c-b97b7bded7dc@mci1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater7-tci2%7C100GB
+vless://c820c605-bd39-46a1-9f9c-b97b7bded7dc@mci2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater7-tci2%7C100GB
+vless://c820c605-bd39-46a1-9f9c-b97b7bded7dc@shatel1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater7-tci2%7C100GB
+vless://c820c605-bd39-46a1-9f9c-b97b7bded7dc@mokhaberat1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater7-tci2%7C100GB
+vless://c820c605-bd39-46a1-9f9c-b97b7bded7dc@mokhaberat2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater7-tci2%7C100GB
