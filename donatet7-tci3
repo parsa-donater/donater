@@ -4,3 +4,4 @@ vless://30984b8c-4f7e-4745-d686-72d383dca0d7@mci2.khasteh-shodam.cloud:2087?mode
 vless://30984b8c-4f7e-4745-d686-72d383dca0d7@shatel1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater7-tci3%7C100GB
 vless://30984b8c-4f7e-4745-d686-72d383dca0d7@mokhaberat1.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater7-tci3%7C100GB
 vless://30984b8c-4f7e-4745-d686-72d383dca0d7@mokhaberat2.khasteh-shodam.cloud:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=test6.khasteh-shodam.cloud#srv2%7CDonater7-tci3%7C100GB
+vless://6657b245-25cb-4254-d2b1-e844cfb233aa@donater1.khasteh-shodam.cloud:11637?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gmail.com&sid=206d26bd#Real1%7CDonater1-srv1
